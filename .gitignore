@@ -1,0 +1,9 @@
+core/__pycache__
+perfil/__pycache__
+planejamento/__pycache__
+venv
+Doc.txt
+db.sqlite3
+perfil/migrations
+contas/__pycache__
+contas/migrations
